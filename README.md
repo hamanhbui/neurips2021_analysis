@@ -1,5 +1,5 @@
 # neurips2021_analysis
-This repo contains the crawling and visualization scripts to statisticize the number of accepted NeurIPS 2021 papers
+This repo contains the crawling and visualization scripts to statisticize the number of accepted NeurIPS 2021 papers.
 
 **Note:** The data is crawled from [https://neurips.cc/Conferences/2021/Schedule?type=Poster](https://neurips.cc/Conferences/2021/Schedule?type=Poster) on Nov 12, 2021, 1:26 PM GMT+7.
 
